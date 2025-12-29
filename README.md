@@ -1,6 +1,6 @@
 # FLAMES Game (Python)
 
-This repository contains the core logic of the classic FLAMES game
+This repository contains the core logic of an unorthodox FLAMES game
 implemented in Python.
 
 
